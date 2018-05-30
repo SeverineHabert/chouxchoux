@@ -3,121 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://username.github.io/post/koreanbeef/</loc>
+    <loc>https://chouchoux.netlify.com/post/koreanbeef/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://username.github.io/fr/post/koreanbeef/"
+                href="https://chouchoux.netlify.com/fr/post/koreanbeef/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://username.github.io/post/koreanbeef/"
+                href="https://chouchoux.netlify.com/post/koreanbeef/"
                 />
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/beef/</loc>
+    <loc>https://chouchoux.netlify.com/categories/beef/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://username.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://username.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/</loc>
+    <loc>https://chouchoux.netlify.com/categories/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://username.github.io/fr/"
+                href="https://chouchoux.netlify.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://username.github.io/"
+                href="https://chouchoux.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/garlic/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/categories/ginger/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/categories/korean/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/categories/maindish/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/post/</loc>
+    <loc>https://chouchoux.netlify.com/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://username.github.io/fr/post/"
+                href="https://chouchoux.netlify.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://username.github.io/post/"
+                href="https://chouchoux.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/rice/</loc>
+    <loc>https://chouchoux.netlify.com/categories/garlic/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/tags/</loc>
+    <loc>https://chouchoux.netlify.com/categories/ginger/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouchoux.netlify.com/categories/korean/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouchoux.netlify.com/categories/maindish/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouchoux.netlify.com/post/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://username.github.io/fr/tags/"
+                href="https://chouchoux.netlify.com/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://username.github.io/tags/"
+                href="https://chouchoux.netlify.com/post/"
                 />
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/weeknight/</loc>
+    <loc>https://chouchoux.netlify.com/categories/rice/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouchoux.netlify.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouchoux.netlify.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouchoux.netlify.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://chouchoux.netlify.com/categories/weeknight/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
