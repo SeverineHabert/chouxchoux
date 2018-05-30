@@ -252,19 +252,21 @@ img {
 }
 
 .disqus-comments {
+  width:100%;
   margin-top: 30px;
 }
 
 @media only screen and (min-width: 768px) {
   .disqus-comments {
     margin-top: 40px;
+    width:100%;
   }
 }
 
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #a5d4de; 
+  background: #a5d4de;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
