@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Choux Choux</title>
+    <link>https://username.github.io/categories/</link>
+    <description>Recent content in Categories on Choux Choux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://username.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beef</title>
+      <link>https://username.github.io/categories/beef/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/beef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garlic</title>
+      <link>https://username.github.io/categories/garlic/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/garlic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ginger</title>
+      <link>https://username.github.io/categories/ginger/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/ginger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korean</title>
+      <link>https://username.github.io/categories/korean/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/korean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maindish</title>
+      <link>https://username.github.io/categories/maindish/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/maindish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice</title>
+      <link>https://username.github.io/categories/rice/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weeknight</title>
+      <link>https://username.github.io/categories/weeknight/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/categories/weeknight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
