@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Choux Choux</title>
-    <link>https://chouchoux.netlify.com/categories/</link>
+    <link>https://chouxchoux.netlify.com/categories/</link>
     <description>Recent content in Categories on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chouchoux.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chouxchoux.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beef</title>
-      <link>https://chouchoux.netlify.com/categories/beef/</link>
+      <link>https://chouxchoux.netlify.com/categories/beef/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/beef/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/beef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Garlic</title>
-      <link>https://chouchoux.netlify.com/categories/garlic/</link>
+      <link>https://chouxchoux.netlify.com/categories/garlic/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/garlic/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/garlic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ginger</title>
-      <link>https://chouchoux.netlify.com/categories/ginger/</link>
+      <link>https://chouxchoux.netlify.com/categories/ginger/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/ginger/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/ginger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Korean</title>
-      <link>https://chouchoux.netlify.com/categories/korean/</link>
+      <link>https://chouxchoux.netlify.com/categories/korean/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/korean/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/korean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maindish</title>
-      <link>https://chouchoux.netlify.com/categories/maindish/</link>
+      <link>https://chouxchoux.netlify.com/categories/maindish/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/maindish/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/maindish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rice</title>
-      <link>https://chouchoux.netlify.com/categories/rice/</link>
+      <link>https://chouxchoux.netlify.com/categories/rice/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/rice/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/rice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weeknight</title>
-      <link>https://chouchoux.netlify.com/categories/weeknight/</link>
+      <link>https://chouxchoux.netlify.com/categories/weeknight/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/categories/weeknight/</guid>
+      <guid>https://chouxchoux.netlify.com/categories/weeknight/</guid>
       <description></description>
     </item>
     

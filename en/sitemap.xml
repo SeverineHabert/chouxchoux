@@ -3,121 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chouchoux.netlify.com/post/koreanbeef/</loc>
+    <loc>https://chouxchoux.netlify.com/post/koreanbeef/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://chouchoux.netlify.com/fr/post/koreanbeef/"
+                href="https://chouxchoux.netlify.com/fr/post/koreanbeef/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chouchoux.netlify.com/post/koreanbeef/"
+                href="https://chouxchoux.netlify.com/post/koreanbeef/"
                 />
   </url>
   
   <url>
-    <loc>https://chouchoux.netlify.com/categories/beef/</loc>
+    <loc>https://chouxchoux.netlify.com/categories/beef/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chouchoux.netlify.com/categories/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://chouchoux.netlify.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://chouchoux.netlify.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://chouchoux.netlify.com/</loc>
+    <loc>https://chouxchoux.netlify.com/categories/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://chouchoux.netlify.com/fr/"
+                href="https://chouxchoux.netlify.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chouchoux.netlify.com/"
+                href="https://chouxchoux.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://chouchoux.netlify.com/categories/garlic/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chouchoux.netlify.com/categories/ginger/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chouchoux.netlify.com/categories/korean/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chouchoux.netlify.com/categories/maindish/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chouchoux.netlify.com/post/</loc>
+    <loc>https://chouxchoux.netlify.com/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://chouchoux.netlify.com/fr/post/"
+                href="https://chouxchoux.netlify.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chouchoux.netlify.com/post/"
+                href="https://chouxchoux.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>https://chouchoux.netlify.com/categories/rice/</loc>
+    <loc>https://chouxchoux.netlify.com/categories/garlic/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chouchoux.netlify.com/tags/</loc>
+    <loc>https://chouxchoux.netlify.com/categories/ginger/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/categories/korean/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/categories/maindish/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/post/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://chouchoux.netlify.com/fr/tags/"
+                href="https://chouxchoux.netlify.com/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chouchoux.netlify.com/tags/"
+                href="https://chouxchoux.netlify.com/post/"
                 />
   </url>
   
   <url>
-    <loc>https://chouchoux.netlify.com/categories/weeknight/</loc>
+    <loc>https://chouxchoux.netlify.com/categories/rice/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouxchoux.netlify.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouxchoux.netlify.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/categories/weeknight/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

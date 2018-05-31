@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boeuf on Choux Choux</title>
-    <link>https://chouchoux.netlify.com/fr/categories/boeuf/</link>
+    <link>https://chouxchoux.netlify.com/fr/categories/boeuf/</link>
     <description>Recent content in Boeuf on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chouchoux.netlify.com/fr/categories/boeuf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chouxchoux.netlify.com/fr/categories/boeuf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Boeuf à la coréenne</title>
-      <link>https://chouchoux.netlify.com/fr/post/koreanbeef/</link>
+      <link>https://chouxchoux.netlify.com/fr/post/koreanbeef/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chouchoux.netlify.com/fr/post/koreanbeef/</guid>
+      <guid>https://chouxchoux.netlify.com/fr/post/koreanbeef/</guid>
       <description>Ce bol-repas d´inspiration coréenne est un favori chez moi. Les saveurs de ce plat sont addictives, il reste cependant très rapide et simple à faire. Parfait pour un soir de semaine!</description>
     </item>
     
