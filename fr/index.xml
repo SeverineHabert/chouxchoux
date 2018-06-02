@@ -5,10 +5,19 @@
     <link>https://chouxchoux.netlify.com/fr/</link>
     <description>Recent content on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chouxchoux.netlify.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pâte brisée</title>
+      <link>https://chouxchoux.netlify.com/fr/post/patebrisee/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/post/patebrisee/</guid>
+      <description>La recette de base pour la pâte brisée, qui peut s´utiliser pour des tartes sucrées ou des quiches.</description>
+    </item>
     
     <item>
       <title>Boeuf à la coréenne</title>
