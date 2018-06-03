@@ -40,7 +40,7 @@ h3,h4,h5,h6 {
 }
 
 h1,h2 {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Comfortaa', cursive;
   font-weight: 800;
 }
 
@@ -88,8 +88,10 @@ hr.small {
   text-justify: inter-word;
 }
 
-.recipe-tags {
-
+.citation-content {
+    padding-top: : 25px;
+    font-size: 25px;
+    font-family: 'Comfortaa', cursive;
 }
 
 
@@ -142,7 +144,7 @@ ol {
   border: 0;
  box-shadow: none;
  border-radius: 0px;
- font-size: 15px;
+ font-size: 18px;
 line-height: 50px;
  color:#000000;
 }
