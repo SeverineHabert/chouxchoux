@@ -5,7 +5,7 @@
   <url>
     <loc>https://chouxchoux.netlify.com/blog/shortcrust-pastry/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
@@ -22,7 +22,7 @@
   <url>
     <loc>https://chouxchoux.netlify.com/blog/korean-beef/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
@@ -39,28 +39,28 @@
   <url>
     <loc>https://chouxchoux.netlify.com/categories/baking/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/basic/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/beef/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -77,7 +77,7 @@
   <url>
     <loc>https://chouxchoux.netlify.com/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -94,49 +94,49 @@
   <url>
     <loc>https://chouxchoux.netlify.com/categories/dough/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/garlic/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/ginger/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/korean/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/maindish/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/categories/pastry/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/post/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -153,13 +153,13 @@
   <url>
     <loc>https://chouxchoux.netlify.com/categories/rice/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chouxchoux.netlify.com/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -176,7 +176,7 @@
   <url>
     <loc>https://chouxchoux.netlify.com/categories/weeknight/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
