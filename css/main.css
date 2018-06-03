@@ -11,16 +11,15 @@ body {
   margin-bottom:50px;
 
 }
-
 .container {
-width:90%;
+width:95%;
 }
 
 @media only screen and (max-width: 900px) {
 .container[role=main] {
     margin-left: 0;
     margin-right: 0;
-    width:100%;
+    width:95%;
 }
 }
 
@@ -82,36 +81,15 @@ hr.small {
   margin-left: 0;
   margin-right: 0;
 
-	display: flex;
-
-	.ingredients {
-		width: 200px;
-		padding: 0 43px 0 43px;
-	}
-
-	.directions {
-		flex: 1;
-    text-align: justify;
-    text-justify: inter-word;
-	}
 }
 
-.recipe-info {
+.directions {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
-  margin-top: 2em;
-  margin-bottom: 2em;
-  margin-left: 0;
-  margin-right: 0;
+.recipe-tags {
 
-	display: flex;
-   justify-content: space-between;
-  @media only screen and (min-width: 900px) {
-	.recipe-tags {
-    padding:0 100px;
-		flex: 1;
-	}
-
-    }
 }
 
 
