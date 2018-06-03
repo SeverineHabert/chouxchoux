@@ -104,13 +104,16 @@ hr.small {
   margin-right: 0;
 
 	display: flex;
-
-
+   justify-content: space-between;
+  @media only screen and (min-width: 900px) {
 	.recipe-tags {
     padding:0 100px;
 		flex: 1;
 	}
+
+    }
 }
+
 
 ol {
     list-style-type: none;
