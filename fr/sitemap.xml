@@ -106,13 +106,6 @@
   </url>
   
   <url>
-    <loc>https://chouxchoux.netlify.com/fr/categories/patisserie/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/platprincipal/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -138,6 +131,13 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/p%C3%A2te/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>

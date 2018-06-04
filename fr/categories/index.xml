@@ -56,15 +56,6 @@
     </item>
     
     <item>
-      <title>Patisserie</title>
-      <link>https://chouxchoux.netlify.com/fr/categories/patisserie/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chouxchoux.netlify.com/fr/categories/patisserie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Platprincipal</title>
       <link>https://chouxchoux.netlify.com/fr/categories/platprincipal/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
@@ -79,6 +70,15 @@
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/p%C3%A2te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pâtisserie</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</guid>
       <description></description>
     </item>
     
