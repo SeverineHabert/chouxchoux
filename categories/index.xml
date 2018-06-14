@@ -5,7 +5,7 @@
     <link>https://chouxchoux.netlify.com/categories/</link>
     <description>Recent content in Categories on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chouxchoux.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Baking</title>
       <link>https://chouxchoux.netlify.com/categories/baking/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/categories/baking/</guid>
       <description></description>
@@ -38,11 +38,47 @@
     </item>
     
     <item>
+      <title>Cheese</title>
+      <link>https://chouxchoux.netlify.com/categories/cheese/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Childhood</title>
+      <link>https://chouxchoux.netlify.com/categories/childhood/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/childhood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classics</title>
+      <link>https://chouxchoux.netlify.com/categories/classics/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/classics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dough</title>
       <link>https://chouxchoux.netlify.com/categories/dough/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/categories/dough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>France</title>
+      <link>https://chouxchoux.netlify.com/categories/france/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/france/</guid>
       <description></description>
     </item>
     
@@ -61,6 +97,15 @@
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/categories/ginger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goatcheese</title>
+      <link>https://chouxchoux.netlify.com/categories/goatcheese/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/goatcheese/</guid>
       <description></description>
     </item>
     
@@ -92,11 +137,38 @@
     </item>
     
     <item>
+      <title>Quiche</title>
+      <link>https://chouxchoux.netlify.com/categories/quiche/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/quiche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rice</title>
       <link>https://chouxchoux.netlify.com/categories/rice/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/categories/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spinach</title>
+      <link>https://chouxchoux.netlify.com/categories/spinach/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/spinach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetarian</title>
+      <link>https://chouxchoux.netlify.com/categories/vegetarian/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/categories/vegetarian/</guid>
       <description></description>
     </item>
     

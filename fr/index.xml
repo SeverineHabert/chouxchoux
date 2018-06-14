@@ -5,10 +5,28 @@
     <link>https://chouxchoux.netlify.com/fr/</link>
     <description>Recent content on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chouxchoux.netlify.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Madeleine</title>
+      <link>https://chouxchoux.netlify.com/fr/blog/madeleine/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/blog/madeleine/</guid>
+      <description>Cette pâtisserie est synonyme pour moi (et Proust) de retour à l&amp;rsquo;enfance quand je revenais de l&amp;rsquo;école et manger mon goûter.</description>
+    </item>
+    
+    <item>
+      <title>Quiche Épinard et Chèvre</title>
+      <link>https://chouxchoux.netlify.com/fr/blog/quiche-%C3%A9pinard-et-ch%C3%A8vre/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/blog/quiche-%C3%A9pinard-et-ch%C3%A8vre/</guid>
+      <description>Une quiche délicieuse, colorée et végétarienne parfaite pour un lunch à emmener au boulot.</description>
+    </item>
     
     <item>
       <title>Pâte brisée</title>

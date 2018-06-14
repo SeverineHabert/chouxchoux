@@ -38,11 +38,56 @@
     </item>
     
     <item>
+      <title>Chèvre</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classique</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/classique/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/classique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Corée</title>
       <link>https://chouxchoux.netlify.com/fr/categories/cor%C3%A9e/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/cor%C3%A9e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enfance</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/enfance/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/enfance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>France</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/france/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/france/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fromage</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/fromage/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/fromage/</guid>
       <description></description>
     </item>
     
@@ -76,9 +121,18 @@
     <item>
       <title>Pâtisserie</title>
       <link>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiche</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/quiche/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/quiche/</guid>
       <description></description>
     </item>
     
@@ -106,6 +160,24 @@
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/tarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Végétarien</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/v%C3%A9g%C3%A9tarien/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/v%C3%A9g%C3%A9tarien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Épinard</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/%C3%A9pinard/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/%C3%A9pinard/</guid>
       <description></description>
     </item>
     
