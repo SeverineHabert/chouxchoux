@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chouxchoux.netlify.com/fr/blog/madeleine/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouxchoux.netlify.com/blog/madeleine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouxchoux.netlify.com/fr/blog/madeleine/"
+                />
+  </url>
+  
+  <url>
     <loc>https://chouxchoux.netlify.com/fr/blog/quiche-%C3%A9pinard-et-ch%C3%A8vre/</loc>
     <lastmod>2018-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -93,7 +110,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -116,10 +133,41 @@
   </url>
   
   <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/classique/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/cor%C3%A9e/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/enfance/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/france/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouxchoux.netlify.com/categories/france/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouxchoux.netlify.com/fr/categories/france/"
+                />
   </url>
   
   <url>
@@ -145,7 +193,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/post/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -169,7 +217,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
