@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chouxchoux.netlify.com/fr/blog/tian-aux-l%C3%A9gumes-du-soleil-et-ch%C3%A8vre/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouxchoux.netlify.com/blog/tian-of-summer-vegetables-and-goat-cheese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouxchoux.netlify.com/fr/blog/tian-aux-l%C3%A9gumes-du-soleil-et-ch%C3%A8vre/"
+                />
+  </url>
+  
+  <url>
     <loc>https://chouxchoux.netlify.com/fr/blog/madeleine/</loc>
     <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,7 +127,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -127,7 +144,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -193,7 +210,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/post/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -205,6 +222,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://chouxchoux.netlify.com/fr/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/provence/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouxchoux.netlify.com/categories/provence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouxchoux.netlify.com/fr/categories/provence/"
                 />
   </url>
   
@@ -278,7 +312,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/v%C3%A9g%C3%A9tarien/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -286,6 +320,13 @@
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/%C3%A9pinard/</loc>
     <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/%C3%A9t%C3%A9/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

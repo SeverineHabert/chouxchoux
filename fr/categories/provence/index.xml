@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chèvre on Choux Choux</title>
-    <link>https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/</link>
-    <description>Recent content in Chèvre on Choux Choux</description>
+    <title>Provence on Choux Choux</title>
+    <link>https://chouxchoux.netlify.com/fr/categories/provence/</link>
+    <description>Recent content in Provence on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chouxchoux.netlify.com/fr/categories/provence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>https://chouxchoux.netlify.com/fr/blog/tian-aux-l%C3%A9gumes-du-soleil-et-ch%C3%A8vre/</guid>
       <description>Un plat d&amp;rsquo;été, qui fait le plein de légumes du soleil et qui permet de changer de la traditionnelle ratatouille.</description>
-    </item>
-    
-    <item>
-      <title>Quiche Épinard et Chèvre</title>
-      <link>https://chouxchoux.netlify.com/fr/blog/quiche-%C3%A9pinard-et-ch%C3%A8vre/</link>
-      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chouxchoux.netlify.com/fr/blog/quiche-%C3%A9pinard-et-ch%C3%A8vre/</guid>
-      <description>Une quiche délicieuse, colorée et végétarienne parfaite pour un lunch à emmener au boulot.</description>
     </item>
     
   </channel>

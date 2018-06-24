@@ -40,7 +40,7 @@
     <item>
       <title>Chèvre</title>
       <link>https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/</link>
-      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/ch%C3%A8vre/</guid>
       <description></description>
@@ -110,6 +110,15 @@
     </item>
     
     <item>
+      <title>Provence</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/provence/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/provence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pâte</title>
       <link>https://chouxchoux.netlify.com/fr/categories/p%C3%A2te/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
@@ -166,7 +175,7 @@
     <item>
       <title>Végétarien</title>
       <link>https://chouxchoux.netlify.com/fr/categories/v%C3%A9g%C3%A9tarien/</link>
-      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/v%C3%A9g%C3%A9tarien/</guid>
       <description></description>
@@ -178,6 +187,15 @@
       <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://chouxchoux.netlify.com/fr/categories/%C3%A9pinard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Été</title>
+      <link>https://chouxchoux.netlify.com/fr/categories/%C3%A9t%C3%A9/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/categories/%C3%A9t%C3%A9/</guid>
       <description></description>
     </item>
     
