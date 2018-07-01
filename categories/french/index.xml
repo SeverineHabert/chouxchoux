@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Classics on Choux Choux</title>
-    <link>https://chouxchoux.netlify.com/categories/classics/</link>
-    <description>Recent content in Classics on Choux Choux</description>
+    <title>French on Choux Choux</title>
+    <link>https://chouxchoux.netlify.com/categories/french/</link>
+    <description>Recent content in French on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chouxchoux.netlify.com/categories/classics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chouxchoux.netlify.com/categories/french/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>https://chouxchoux.netlify.com/blog/choux-filled-custard-and-strawberry-jam/</guid>
       <description>A delicious little treat that is easy as long as we have time to prepare it in advance. This is often the case in French baking!</description>
-    </item>
-    
-    <item>
-      <title>Madeleine</title>
-      <link>https://chouxchoux.netlify.com/blog/madeleine/</link>
-      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chouxchoux.netlify.com/blog/madeleine/</guid>
-      <description>This pastry is a synonym for me (and Proust) of childhood when I would eat goûter back from school.</description>
     </item>
     
   </channel>

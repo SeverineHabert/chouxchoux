@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Classique on Choux Choux</title>
-    <link>https://chouxchoux.netlify.com/fr/categories/classique/</link>
-    <description>Recent content in Classique on Choux Choux</description>
+    <title>Crèmepâtissière on Choux Choux</title>
+    <link>https://chouxchoux.netlify.com/fr/categories/cr%C3%A8mep%C3%A2tissi%C3%A8re/</link>
+    <description>Recent content in Crèmepâtissière on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chouxchoux.netlify.com/fr/categories/classique/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chouxchoux.netlify.com/fr/categories/cr%C3%A8mep%C3%A2tissi%C3%A8re/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>https://chouxchoux.netlify.com/fr/blog/choux-%C3%A0-la-cr%C3%A8me-p%C3%A2tissi%C3%A8re-et-confiture-de-fraise/</guid>
       <description>Une petite gourmandise bien délicieuse, facile à faire mais longue dans l’exécution, comme souvent en pâtisserie française!</description>
-    </item>
-    
-    <item>
-      <title>Madeleine</title>
-      <link>https://chouxchoux.netlify.com/fr/blog/madeleine/</link>
-      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chouxchoux.netlify.com/fr/blog/madeleine/</guid>
-      <description>Cette pâtisserie est synonyme pour moi (et Proust) de retour à l&amp;rsquo;enfance quand je revenais de l&amp;rsquo;école et manger mon goûter.</description>
     </item>
     
   </channel>

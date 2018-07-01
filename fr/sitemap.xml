@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chouxchoux.netlify.com/fr/blog/choux-%C3%A0-la-cr%C3%A8me-p%C3%A2tissi%C3%A8re-et-confiture-de-fraise/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chouxchoux.netlify.com/blog/choux-filled-custard-and-strawberry-jam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chouxchoux.netlify.com/fr/blog/choux-%C3%A0-la-cr%C3%A8me-p%C3%A2tissi%C3%A8re-et-confiture-de-fraise/"
+                />
+  </url>
+  
+  <url>
     <loc>https://chouxchoux.netlify.com/fr/blog/tian-aux-l%C3%A9gumes-du-soleil-et-ch%C3%A8vre/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -127,7 +144,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -151,7 +168,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/classique/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -164,6 +181,13 @@
   </url>
   
   <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/cr%C3%A8mep%C3%A2tissi%C3%A8re/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/enfance/</loc>
     <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,8 +195,15 @@
   </url>
   
   <url>
+    <loc>https://chouxchoux.netlify.com/fr/categories/fraise/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/france/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -210,7 +241,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/post/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -251,7 +282,7 @@
   
   <url>
     <loc>https://chouxchoux.netlify.com/fr/categories/p%C3%A2tisserie/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
