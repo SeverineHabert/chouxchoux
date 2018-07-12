@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sauce on Choux Choux</title>
+    <link>https://chouxchoux.netlify.com/fr/categories/sauce/</link>
+    <description>Recent content in Sauce on Choux Choux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chouxchoux.netlify.com/fr/categories/sauce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajvar</title>
+      <link>https://chouxchoux.netlify.com/fr/blog/ajvar/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/blog/ajvar/</guid>
+      <description>La sauce typique des Balkans, à manger avec des cevapcici ou simplement avec du riz.</description>
+    </item>
+    
+  </channel>
+</rss>

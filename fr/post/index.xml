@@ -5,10 +5,19 @@
     <link>https://chouxchoux.netlify.com/fr/post/</link>
     <description>Recent content in Posts on Choux Choux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chouxchoux.netlify.com/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ajvar</title>
+      <link>https://chouxchoux.netlify.com/fr/blog/ajvar/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chouxchoux.netlify.com/fr/blog/ajvar/</guid>
+      <description>La sauce typique des Balkans, à manger avec des cevapcici ou simplement avec du riz.</description>
+    </item>
     
     <item>
       <title>Choux à la crème pâtissière et confiture de fraise</title>
